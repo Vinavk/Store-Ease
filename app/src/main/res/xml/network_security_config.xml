@@ -3,3 +3,4 @@
         <domain includeSubdomains="true">example.com</domain>
     </domain-config>
 </network-security-config>
+

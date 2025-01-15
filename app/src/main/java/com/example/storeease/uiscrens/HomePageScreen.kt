@@ -372,6 +372,7 @@ fun TrashedFilesList(file: FileItem, fileViewModel: FileViewModel, context: Cont
     }
 }
 
+
 @OptIn(ExperimentalFoundationApi::class)
 @Composable
 fun FileItemView(

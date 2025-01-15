@@ -3,3 +3,4 @@
     <external-files-path name="external_media" path="Android/data/your.package.name/files/" />
     <document-path name="documents" path="documents/" />
 </paths>
+
